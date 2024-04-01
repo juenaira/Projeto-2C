@@ -31,4 +31,12 @@
 .Personagens{
    background-image: linear-gradient(#e40b8ada,#ff009593);
    color: white;
+   display: flex;
+}
+
+.conteudo{
+   width: 35%;
+}
+.Personagens-titulo{
+   padding: 24px 0px;
 }
