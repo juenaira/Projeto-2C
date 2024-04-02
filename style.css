@@ -3,6 +3,10 @@
    padding: 0;
 }
 
+body{
+   font-family: "Josefin Sans", sans-serif;
+}
+
 .cabecalho{
    background-color: rgb(46, 57, 69);
    color: white;
@@ -26,7 +30,6 @@
 .princesas-imagem{
    width: 30%;
    height: 45%;
-   align-items: center;
 }
 
 .Personagens{
