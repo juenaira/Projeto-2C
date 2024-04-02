@@ -26,13 +26,13 @@
 .princesas-imagem{
    width: 30%;
    height: 45%;
+   justify-content: center;
 }
 
 .Personagens{
    background-image: linear-gradient(#e40b8ada,#ff009593);
    color: white;
    display: flex;
-   justify-content: ;
    align-items: center;
    padding: 24px 0px;
 }
