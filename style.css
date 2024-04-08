@@ -40,6 +40,10 @@ body{
    padding: 24px 0px;
 }
 
+.princesas-imagem{
+   align-items: center;
+}
+
 .conteudo{
    width: 35%;
 }
