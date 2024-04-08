@@ -38,10 +38,9 @@ body{
    justify-content: left;
    align-items: center;
    padding: 24px 0px;
-}
-
-.princesas-imagem{
-   align-items: center;
+   .princesas-imagem{
+      align-items: center;
+   }
 }
 
 .conteudo{
