@@ -50,3 +50,8 @@ body{
 .princesa-imagem{
    width: 120px;
 }
+
+.princesa-icone{
+   width: 24px;
+   padding: 4px 8px;
+}
