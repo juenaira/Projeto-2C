@@ -37,9 +37,11 @@ body{
    justify-content: left;
    align-items: center;
    padding: 24px 0px;
-   .princesas-imagem{
-      justify-content: center;
-   }
+}
+
+.princesas-imagem{
+   display: flex;
+   justify-content: center;
 }
 
 .conteudo{
