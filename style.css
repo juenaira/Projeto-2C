@@ -34,13 +34,13 @@ body{
    background-image: linear-gradient(#e40b8ada,#ff009593);
    color: white;
    display: flex;
-   justify-content: center;
+   justify-content: left;
    align-items: center;
    padding: 24px 0px;
 }
 
-.escola-div-conteudo{
-   width: 35%;
+.princesas-imagem{
+   justify-content: center;
 }
 
 .conteudo{
