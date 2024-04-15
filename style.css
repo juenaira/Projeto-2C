@@ -34,7 +34,7 @@ body{
    background-image: linear-gradient(#e40b8ada,#ff009593);
    color: white;
    display: flex;
-   justify-content: left;
+   justify-content: center;
    align-items: center;
    padding: 24px 0px;
 }
