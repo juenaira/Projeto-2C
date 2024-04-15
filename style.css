@@ -28,8 +28,6 @@ body{
 
 .princesas-imagem{
    width: 30%;
-   height: 45%;
-   text-align: center;
 }
 
 .Personagens{
@@ -39,9 +37,10 @@ body{
    justify-content: left;
    align-items: center;
    padding: 24px 0px;
-   .princesas-imagem{
-      align-items: center;
-   }
+}
+
+.escola-div-conteudo{
+   width: 35%;
 }
 
 .conteudo{
