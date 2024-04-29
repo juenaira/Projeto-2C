@@ -53,6 +53,7 @@ body{
 
 .princesa-imagem{
    width: 120px;
+   height: 213px;
 }
 
 .princesa-icone{
@@ -68,4 +69,9 @@ body{
 .princesas-todas{
    display: grid;
    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.Personagens-titulo{
+   text-align: center;
+   padding: 24px 0;
 }
