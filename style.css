@@ -30,6 +30,11 @@ body{
    width: 30%;
 }
 
+.header-todas{
+   display: grid;
+   grid-template-columns: 50% 50%;
+}
+
 .Personagens{
    background-image: linear-gradient(#e40b8ada,#ff009593);
    color: white;
