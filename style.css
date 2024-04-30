@@ -33,6 +33,7 @@ body{
 .header-todas{
    display: grid;
    grid-template-columns: 30% 30% 40%;
+   align-items: center;
 }
 
 .Personagens{
