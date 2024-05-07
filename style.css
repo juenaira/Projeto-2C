@@ -74,3 +74,12 @@ body{
    text-align: center;
    padding: 24px 0;
 }
+
+<footer class="rodape">
+    <img class="rodape-imagem"src="alurastart logo.png" alt="logo da alura start">
+</footer>
+
+.rodape{
+   background-color: black;
+   text-align: center;
+}
